@@ -45,7 +45,7 @@ body{
     justify-content: center; 
 }
 
-#new-qoute,
+#new-qouteBtn,
 #twitter-btn,
 #dwonload-btn,
 #copy {
@@ -60,7 +60,7 @@ body{
 #dwonload-btn:hover,
 #copy:hover,
 #twitter-btn:hover,
-#new-qoute:hover {
+#new-qouteBtn:hover {
     background-color: rgb(84, 130, 171);
     cursor: pointer;
 }
