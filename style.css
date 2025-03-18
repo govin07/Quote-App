@@ -55,6 +55,7 @@ body{
     border-radius: 25px;
     background-color: aquamarine;
     margin: 5px 0; 
+    text-decoration: none;
 }
 
 #dwonload-btn:hover,
@@ -63,6 +64,7 @@ body{
 #new-qouteBtn:hover {
     background-color: rgb(84, 130, 171);
     cursor: pointer;
+    text-decoration: none;
 }
 
 #copy{
